@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+[] Learning new cod.
+[] Sewing.
+[] Making maps.
+[] Being in Normandy.
